@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Standard_D4plds_v5",
+        "numberOfCores": 4,
+        "memoryInMB": 8192,
+        "osDiskSizeInMB": 1047552,
+        "resourceDiskSizeInMB": 153600,
+        "isAvailable": true
+    }
+]

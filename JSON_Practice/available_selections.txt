@@ -1,0 +1,31 @@
+{
+  "subscriptionId": "00000000-0000-0000-0000-000000000000",
+  "resourceGroup": "rg-compute-prod",
+  "region": "eastus",
+  "availableSizes": [
+    {
+      "name": "Standard_D2plds_v5",
+      "numberOfCores": 2,
+      "memoryInMB": 4096,
+      "osDiskSizeInMB": 1047552,
+      "resourceDiskSizeInMB": 76800,
+      "isAvailable": true
+    },
+    {
+      "name": "Standard_D4plds_v5",
+      "numberOfCores": 4,
+      "memoryInMB": 8192,
+      "osDiskSizeInMB": 1047552,
+      "resourceDiskSizeInMB": 153600,
+      "isAvailable": true
+    },
+    {
+      "name": "Standard_E2pds_v5",
+      "numberOfCores": 2,
+      "memoryInMB": 16384,
+      "osDiskSizeInMB": 1047552,
+      "resourceDiskSizeInMB": 76800,
+      "isAvailable": false
+    }
+  ]
+}
